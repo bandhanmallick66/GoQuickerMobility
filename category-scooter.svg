@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <linearGradient id="cs-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d7d69"/><stop offset="1" stop-color="#174236"/>
+    </linearGradient>
+    <radialGradient id="cs-shadow"><stop offset="0" stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <filter id="cs-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <ellipse cx="320" cy="388" rx="260" ry="13" fill="url(#cs-shadow)"/>
+  
+    <g transform="translate(160 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+    <g transform="translate(480 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+  <!-- rear body -->
+  <path d="M86 268C80 232 104 200 150 194L330 188C352 188 364 200 366 220L372 262L254 274C232 292 214 300 186 300L120 300C100 300 90 288 86 268Z" fill="url(#cs-body)"/>
+  <path d="M100 236C150 214 260 206 350 204" stroke="#fff" stroke-opacity=".3" stroke-width="3" fill="none"/>
+  <path d="M110 262L300 250" stroke="#c7f36b" stroke-width="4" stroke-linecap="round"/>
+  <!-- seat -->
+  <path d="M120 196C128 176 160 168 206 168L318 170C338 172 344 184 336 194L128 202Z" fill="#0d1a16"/>
+  <!-- floorboard -->
+  <path d="M240 272L410 262L412 290L250 298Z" fill="#101c18"/>
+  <!-- front apron / leg shield -->
+  <path d="M392 290L400 232C404 196 418 160 436 128L462 132C454 170 452 210 462 248C470 272 484 286 500 292L474 300L404 300Z" fill="url(#cs-body)"/>
+  <path d="M430 140C424 170 420 210 426 250" stroke="#fff" stroke-opacity=".28" stroke-width="3" fill="none"/>
+  <!-- steering + bars -->
+  <path d="M446 132L456 96" stroke="#22302b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 92L492 84" stroke="#0d1a16" stroke-width="9" stroke-linecap="round"/>
+  <path d="M472 86L486 56" stroke="#5b6863" stroke-width="3"/><ellipse cx="489" cy="52" rx="10" ry="6" fill="#22302b"/>
+  <!-- headlight -->
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#fbfff1"/>
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#f6ffe0" filter="url(#cs-glow)"/>
+  <!-- front fender -->
+  <path d="M424 300A60 60 0 0 1 540 292" stroke="url(#cs-body)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <!-- tail light -->
+  <path d="M86 250L96 242L100 262L90 266Z" fill="#ff5a47"/>
+  <!-- rear swingarm -->
+  <path d="M160 336L250 300" stroke="#1f2a26" stroke-width="16" stroke-linecap="round"/></svg>

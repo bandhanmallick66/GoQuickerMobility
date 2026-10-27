@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  
+  <defs>
+    <linearGradient id="f41-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#061a15"/><stop offset=".45" stop-color="#16392f"/>
+      <stop offset=".78" stop-color="#5b6f55"/><stop offset="1" stop-color="#c99556"/>
+    </linearGradient>
+    <radialGradient id="f41-sun" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffe2a6" stop-opacity=".95"/><stop offset=".25" stop-color="#f3b867" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f3b867" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="560" fill="url(#f41-sky)"/>
+  <circle cx="1065.9128224477172" cy="540" r="320" fill="url(#f41-sun)"/>
+  <path d="M0 920L0,409.8L20,434.4L40,452.7L60,462.2L80,462.7L100,456.6L120,448L140,441L160,438.3L180,440.7L200,446.5L220,452.6L240,455.3L260,452.2L280,443L300,429.7L320,416.1L340,406.5L360,404L380,410L400,422.8L420,439L440,454L460,463.8L480,466.2L500,461.5L520,452L540,441.5L560,433.3L580,429.5L600,429.6L620,431.2L640,430.6L660,424.2L680,409.9L700,388L720,361.2L740,334L760,311L780,295.7L800,289.2L820,290.4L840,296L860,302L880,305.2L900,304.3L920,300.4L940,296.3L960,295.8L980,301.7L1000,315.1L1020,334.8L1040,357L1060,377.5L1080,391.9L1100,397.9L1120,395.8L1140,388L1160,378.6L1180,371.7L1200,370.2L1220,374.6L1240,383.1L1260,392.4L1280,399L1300,400.5L1320,396.6L1340,389.3L1360,382.3L1380,379.9L1400,385.1L1420,398.8L1440,419.2L1460,442.7L1480,464.7L1500,481L1520,489.5L1540,490.6L1560,486.7L1580,481.4L1600,478.1L1600 920Z" fill="#3f5a4b"/>
+  <path d="M0 950L0,505.7L20,500.9L40,495L60,494.6L80,500.8L100,508.5L120,509.4L140,497.4L160,473.1L180,443.8L200,418.9L220,404.5L240,400L260,399L280,394.6L300,384.5L320,372.3L340,366L360,371.5L380,389L400,411.7L420,430.2L440,437.8L460,435L480,427.9L500,424.6L520,429.1L540,439L560,447.2L580,447.5L600,439L620,427.4L640,421.6L660,428.1L680,446.8L700,470.9L720,491.5L740,502.9L760,505.9L780,506.9L800,512.4L820,524.2L840,537.6L860,544.5L880,538.2L900,518.7L920,492.4L940,468.8L960,454.7L980,450.1L1000,448.9L1020,444.1L1040,432.4L1060,417.1L1080,405.8L1100,404.9L1120,415.4L1140,431.2L1160,443.1L1180,444.1L1200,434L1220,418.8L1240,406.9L1260,403.1L1280,405.9L1300,408.7L1320,405.1L1340,393.6L1360,379.2L1380,370.8L1400,375.5L1420,393.7L1440,419.2L1460,442.9L1480,458.5L1500,466L1520,471.2L1540,480.9L1560,497.5L1580,517L1600,531.1L1600 950Z" fill="#24423a"/>
+  <path d="M0 966L0,486.6L20,483.9L40,475.7L60,476.9L80,495L100,520L120,536.1L140,539.7L160,541.5L180,550.2L200,559.7L220,556.2L240,536.6L260,514.2L280,503.7L300,504.8L320,504.5L340,495.4L360,485.5L380,486.9L400,498.8L420,506.3L440,498.3L460,480.2L480,467.4L500,465.7L520,466.1L540,458.4L560,446.8L580,446.1L600,463.5L620,488.5L640,505.4L660,510.9L680,515.8L700,528.7L720,543L740,544.8L760,531.4L780,516.2L800,513.3L820,521.5L840,527.3L860,523.3L880,517.4L900,521.4L920,533.9L940,540L960,528.8L980,506.8L1000,489.4L1020,482.4L1040,476.7L1060,462.7L1080,445.1L1100,438.9L1120,450.8L1140,470.3L1160,481.8L1180,482.8L1200,484.5L1220,495.4L1240,508.8L1260,511.1L1280,500L1300,489.2L1320,492.2L1340,507.1L1360,519.9L1380,523.1L1400,524.5L1420,535.3L1440,553.5L1460,563.9L1480,556L1500,536.4L1520,520.7L1540,514.3L1560,507.9L1580,492L1600,471.7L1600 966Z" fill="#0f2620"/>
+  
+  <defs>
+    <linearGradient id="f41-road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#26302b"/><stop offset=".35" stop-color="#121a17"/><stop offset="1" stop-color="#050807"/>
+    </linearGradient>
+    <linearGradient id="f41-roadsheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f3b867" stop-opacity="0"/><stop offset=".6" stop-color="#f3b867" stop-opacity=".18"/><stop offset="1" stop-color="#f3b867" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="560" width="1600" height="340" fill="url(#f41-road)"/>
+  <rect y="560" width="1600" height="170" fill="url(#f41-roadsheen)"/>
+  <rect x="-40" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="160" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="360" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="560" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="760" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="960" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="1160" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="1360" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/><rect x="1560" y="822" width="110" height="6" rx="3" fill="#e9eedf" opacity=".35"/>
+  <g opacity=".18" transform="translate(440 1255.6) scale(1.2 -1.2)">
+  <defs>
+    <linearGradient id="fsc-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d7d69"/><stop offset="1" stop-color="#174236"/>
+    </linearGradient>
+    <radialGradient id="fsc-shadow"><stop offset="0" stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <filter id="fsc-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <ellipse cx="320" cy="388" rx="260" ry="13" fill="url(#fsc-shadow)"/>
+  
+    <g transform="translate(160 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+    <g transform="translate(480 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+  <!-- rear body -->
+  <path d="M86 268C80 232 104 200 150 194L330 188C352 188 364 200 366 220L372 262L254 274C232 292 214 300 186 300L120 300C100 300 90 288 86 268Z" fill="url(#fsc-body)"/>
+  <path d="M100 236C150 214 260 206 350 204" stroke="#fff" stroke-opacity=".3" stroke-width="3" fill="none"/>
+  <path d="M110 262L300 250" stroke="#c7f36b" stroke-width="4" stroke-linecap="round"/>
+  <!-- seat -->
+  <path d="M120 196C128 176 160 168 206 168L318 170C338 172 344 184 336 194L128 202Z" fill="#0d1a16"/>
+  <!-- floorboard -->
+  <path d="M240 272L410 262L412 290L250 298Z" fill="#101c18"/>
+  <!-- front apron / leg shield -->
+  <path d="M392 290L400 232C404 196 418 160 436 128L462 132C454 170 452 210 462 248C470 272 484 286 500 292L474 300L404 300Z" fill="url(#fsc-body)"/>
+  <path d="M430 140C424 170 420 210 426 250" stroke="#fff" stroke-opacity=".28" stroke-width="3" fill="none"/>
+  <!-- steering + bars -->
+  <path d="M446 132L456 96" stroke="#22302b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 92L492 84" stroke="#0d1a16" stroke-width="9" stroke-linecap="round"/>
+  <path d="M472 86L486 56" stroke="#5b6863" stroke-width="3"/><ellipse cx="489" cy="52" rx="10" ry="6" fill="#22302b"/>
+  <!-- headlight -->
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#fbfff1"/>
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#f6ffe0" filter="url(#fsc-glow)"/>
+  <!-- front fender -->
+  <path d="M424 300A60 60 0 0 1 540 292" stroke="url(#fsc-body)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <!-- tail light -->
+  <path d="M86 250L96 242L100 262L90 266Z" fill="#ff5a47"/>
+  <!-- rear swingarm -->
+  <path d="M160 336L250 300" stroke="#1f2a26" stroke-width="16" stroke-linecap="round"/></g>
+  <g transform="translate(440 324.40000000000003) scale(1.2)">
+  <defs>
+    <linearGradient id="fsc-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d7d69"/><stop offset="1" stop-color="#174236"/>
+    </linearGradient>
+    <radialGradient id="fsc-shadow"><stop offset="0" stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <filter id="fsc-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <ellipse cx="320" cy="388" rx="260" ry="13" fill="url(#fsc-shadow)"/>
+  
+    <g transform="translate(160 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+    <g transform="translate(480 336)">
+      <circle r="52" fill="#080b0a"/><circle r="34" fill="#2e3935"/>
+      <rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(0)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(60)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(120)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(180)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(240)"/><rect x="-3" y="-32" width="6" height="24" rx="3" fill="#a4b1ab" opacity=".75" transform="rotate(300)"/>
+      <circle r="9" fill="#cdd6d2"/>
+    </g>
+  <!-- rear body -->
+  <path d="M86 268C80 232 104 200 150 194L330 188C352 188 364 200 366 220L372 262L254 274C232 292 214 300 186 300L120 300C100 300 90 288 86 268Z" fill="url(#fsc-body)"/>
+  <path d="M100 236C150 214 260 206 350 204" stroke="#fff" stroke-opacity=".3" stroke-width="3" fill="none"/>
+  <path d="M110 262L300 250" stroke="#c7f36b" stroke-width="4" stroke-linecap="round"/>
+  <!-- seat -->
+  <path d="M120 196C128 176 160 168 206 168L318 170C338 172 344 184 336 194L128 202Z" fill="#0d1a16"/>
+  <!-- floorboard -->
+  <path d="M240 272L410 262L412 290L250 298Z" fill="#101c18"/>
+  <!-- front apron / leg shield -->
+  <path d="M392 290L400 232C404 196 418 160 436 128L462 132C454 170 452 210 462 248C470 272 484 286 500 292L474 300L404 300Z" fill="url(#fsc-body)"/>
+  <path d="M430 140C424 170 420 210 426 250" stroke="#fff" stroke-opacity=".28" stroke-width="3" fill="none"/>
+  <!-- steering + bars -->
+  <path d="M446 132L456 96" stroke="#22302b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 92L492 84" stroke="#0d1a16" stroke-width="9" stroke-linecap="round"/>
+  <path d="M472 86L486 56" stroke="#5b6863" stroke-width="3"/><ellipse cx="489" cy="52" rx="10" ry="6" fill="#22302b"/>
+  <!-- headlight -->
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#fbfff1"/>
+  <path d="M458 104C474 100 488 104 494 114L468 120Z" fill="#f6ffe0" filter="url(#fsc-glow)"/>
+  <!-- front fender -->
+  <path d="M424 300A60 60 0 0 1 540 292" stroke="url(#fsc-body)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <!-- tail light -->
+  <path d="M86 250L96 242L100 262L90 266Z" fill="#ff5a47"/>
+  <!-- rear swingarm -->
+  <path d="M160 336L250 300" stroke="#1f2a26" stroke-width="16" stroke-linecap="round"/></g></svg>

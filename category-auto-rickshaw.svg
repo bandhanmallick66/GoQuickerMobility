@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <linearGradient id="cr-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2f2c"/><stop offset="1" stop-color="#0d0f0e"/>
+    </linearGradient>
+    <linearGradient id="cr-canopy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd84a"/><stop offset="1" stop-color="#e2b10f"/>
+    </linearGradient>
+    <radialGradient id="cr-shadow"><stop offset="0" stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <filter id="cr-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <ellipse cx="350" cy="388" rx="300" ry="14" fill="url(#cr-shadow)"/>
+  <!-- cabin interior -->
+  <rect x="110" y="110" width="400" height="200" fill="#0b1512"/>
+  <rect x="150" y="150" width="34" height="76" rx="10" fill="#5a3b2a"/>
+  <rect x="150" y="214" width="130" height="20" rx="8" fill="#5a3b2a"/>
+  <path d="M478 168L500 160" stroke="#9aa7a1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M470 196L486 164" stroke="#5b6863" stroke-width="5" stroke-linecap="round"/>
+  <!-- canopy -->
+  <path d="M100 118C100 92 118 78 146 78L478 78C506 78 522 94 528 116L534 132L100 132Z" fill="url(#cr-canopy)"/>
+  <path d="M100 118L100 250C100 262 108 270 120 270L150 270L150 132L100 132Z" fill="url(#cr-canopy)"/>
+  <path d="M110 92C160 86 400 84 500 88" stroke="#fff" stroke-opacity=".25" stroke-width="3" fill="none"/>
+  <!-- windshield frame -->
+  <path d="M506 128L528 130L546 214L524 214Z" fill="#183630" stroke="#e2b10f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M512 136L522 137L536 200Z" fill="#d9f0e6" opacity=".25"/>
+  <!-- rear tub -->
+  <path d="M100 250C100 236 110 226 124 226L318 226L340 300L520 300L520 340L124 340C110 340 100 330 100 316Z" fill="url(#cr-body)"/>
+  <rect x="100" y="256" width="236" height="12" fill="#ffd84a"/>
+  <!-- front cowl -->
+  <path d="M500 214C524 204 566 204 586 220C600 232 604 262 602 304C600 328 588 340 566 340L496 340Z" fill="url(#cr-body)"/>
+  <path d="M506 222C530 214 560 214 578 226" stroke="#fff" stroke-opacity=".25" stroke-width="3" fill="none"/>
+  <path d="M500 286L602 286" stroke="#ffd84a" stroke-width="10"/>
+  <!-- lights -->
+  <circle cx="598" cy="246" r="9" fill="#f6ffe0" filter="url(#cr-glow)"/><circle cx="598" cy="246" r="7" fill="#fbfff1"/>
+  <rect x="102" y="280" width="8" height="18" rx="3" fill="#ff5a47"/>
+  <!-- floor + step -->
+  <rect x="330" y="298" width="170" height="6" fill="#0b1512" opacity=".6"/>
+  
+    <g transform="translate(190 344)">
+      <circle r="44" fill="#080b0a"/><circle r="26.4" fill="#3a4541"/>
+      <circle r="26.4" fill="none" stroke="#9aa7a1" stroke-width="2.5" opacity=".7"/>
+      <rect x="-2" y="-24.64" width="4" height="17.6" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(0)"/><rect x="-2" y="-24.64" width="4" height="17.6" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(72)"/><rect x="-2" y="-24.64" width="4" height="17.6" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(144)"/><rect x="-2" y="-24.64" width="4" height="17.6" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(216)"/><rect x="-2" y="-24.64" width="4" height="17.6" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(288)"/>
+      <circle r="7.92" fill="#c9d2ce"/>
+    </g>
+    <g transform="translate(540 348)">
+      <circle r="40" fill="#080b0a"/><circle r="24" fill="#3a4541"/>
+      <circle r="24" fill="none" stroke="#9aa7a1" stroke-width="2.5" opacity=".7"/>
+      <rect x="-2" y="-22.400000000000002" width="4" height="16" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(0)"/><rect x="-2" y="-22.400000000000002" width="4" height="16" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(72)"/><rect x="-2" y="-22.400000000000002" width="4" height="16" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(144)"/><rect x="-2" y="-22.400000000000002" width="4" height="16" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(216)"/><rect x="-2" y="-22.400000000000002" width="4" height="16" rx="2" fill="#9aa7a1" opacity=".7" transform="rotate(288)"/>
+      <circle r="7.199999999999999" fill="#c9d2ce"/>
+    </g>
+  <path d="M488 348A56 56 0 0 1 592 348" stroke="#0d0f0e" stroke-width="10" fill="none"/></svg>
